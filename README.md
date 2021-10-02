@@ -7,12 +7,14 @@
     </div>
     <div>
       <h1>🔗 Links</h1>
-      <a href="https://matrixdev.xyz/?from=github?reason=clicked-link">Website</a>
-      <a href="https://matrixdev.xyz/legal">Legal</a>
-      <a href="https://matrixdev.xyz/products">Products</a>
-      <a href="https://matrixdev.xyz/team">Our Team</a>
-      <a href="https://matrixdev.xyz/#faq">Faq</a>
-      <a href="https://dsc.gg/matrixdev">Discord Server</a>
+      <ul>
+        <li><a href="https://matrixdev.xyz/?from=github?reason=clicked-link">Website</a></li>
+        <li><a href="https://matrixdev.xyz/legal">Legal</a></li>
+        <li><a href="https://matrixdev.xyz/products">Products</a></li>
+        <li><a href="https://matrixdev.xyz/team">Our Team</a></li>
+        <li><a href="https://matrixdev.xyz/#faq">Faq</a></li>
+        <li><a href="https://dsc.gg/matrixdev">Discord</a></li>
+      </ul>
     </div>
   </body>
   </html>
