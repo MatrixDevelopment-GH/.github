@@ -7,7 +7,7 @@
     </div>
     <div>
       <h2> About Us<h2>
-      <h3>We're a small group of developers inspired by our love for programming and pride ourselves on the things we can do in order to make a difference across the world. We strive on becoming a popular development group, not for the money but for the reputation it can bring us and the opportunities we can earn</h3>
+      <p>We're a small group of developers inspired by our love for programming and pride ourselves on the things we can do in order to make a difference across the world. We strive on becoming a popular development group, not for the money but for the reputation it can bring us and the opportunities we can earn</p>
     </div>
     <div>
       <h1>🔗 Links</h1>
