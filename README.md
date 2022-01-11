@@ -13,11 +13,13 @@
       <h1>🔗 Links</h1>
       <ul>
         <li><a href="https://matrixdev.xyz/?from=github?reason=clicked-link">Website</a></li>
-        <li><a href="https://matrixdev.xyz/legal">Legal</a></li>    2ae34f5z
+        <li><a href="https://matrixdev.xyz/legal">Legal</a></li>
         <li><a href="https://matrixdev.xyz/products">Products</a></li>
         <li><a href="https://matrixdev.xyz/team">Our Team</a></li>
         <li><a href="https://matrixdev.xyz/#faq">Faq</a></li>
-        <li><a href="https://dsc.gg/matrixdev">Discord</a></li>
+        <li><a href="https://discord.gg/mtx">Discord</a></li>
+        <li><a href="https://status.matrixdev.xyz">Status Site</a></li>
+        <li><a href="https://docs.matrixdev.xyz">Documentation Site</a></li>
       </ul>
     </div>
   </body>
