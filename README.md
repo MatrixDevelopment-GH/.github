@@ -12,7 +12,7 @@
       <h6>There are tons of things to do if you plan on learning more about us. You can check out all of our websites to find out what kind of group we are. Almost everything about us is on our documentation site. You can join our Discord server for updates on our products, to contact us, and more. We're mainly a discord-based development group so as of right now our entire operation is on Discord including our products.
     </div>
     <div>
-      <h1>🔗 Links</h1>
+      <h2>🔗 Links</h2>
       <ul>
         <li><a href="https://matrixdev.xyz/?from=github?reason=clicked-link">Website</a></li>
         <li><a href="https://matrixdev.xyz/legal">Legal</a></li>
