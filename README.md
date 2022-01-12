@@ -8,8 +8,7 @@
     <div>
       <h2> About Us<h2>
       <h6>We're a small group of developers inspired by our love for programming and pride ourselves on the things we can do in order to make a difference across the world. We strive on becoming a popular development group, not for the money but for the reputation it can bring us and the opportunities we can earn</h6>
-    </div>
-    <div>
+
       <h2>Check us out!</h2>
       <h6>There are tons of things to do if you plan on learning more about us. You can check out all of our websites to find out what kind of group we are. Almost everything about us is on our documentation site. You can join our Discord server for updates on our products, to contact us, and more. We're mainly a discord-based development group so as of right now our entire operation is on Discord including our products.
     </div>
