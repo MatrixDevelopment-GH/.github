@@ -3,7 +3,7 @@
   <body align="center">
     <div>
       <img src="https://cdn.discordapp.com/attachments/854544444161654826/893934648449716284/matrix-nobg.png" width="50" height="50"> <h1>Matrix Development</h1>
-      <img src="https://cdn.discordapp.com/icons/755687537753718815/a_9d830e7dde5d3a3926b2c471cc8db415.gif?size=4096">
+      <img src="https://cdn.discordapp.com/attachments/848600175705325599/932651096378318858/ezgif-2-d290285761.gif">
       <h3>We Don't Shape Reality, We Create It.</h3>
     </div>
     <div>
