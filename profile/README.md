@@ -16,12 +16,14 @@
     <div>
      <h2>🔗 Links</h2>
       <ul>
-        <li><a href="https://matrixdev.xyz/?from=github?reason=clicked-link">Website</a></li>
-        <li><a href="https://matrixdev.xyz/legal">Legal</a></li>
-        <li><a href="https://matrixdev.xyz/products">Products</a></li>
-        <li><a href="https://matrixdev.xyz/team">Our Team</a></li>
-        <li><a href="https://matrixdev.xyz/#faq">Faq</a></li>
-        <li><a href="https://discord.gg/mtx">Discord</a></li>
+        <li><a href="https://matrixdev.xyz/">Website</a></li>
+        <li><a href="https://matrixdev.xyz/legal/terms">Terms</a></li>
+        <li><a href="https://matrixdev.xyz/legal/prviacy">Privacy Policy</a></li>
+        <li><a href="https://matrixdev.xyz/legal/disclaimer">Disclaimer</a></li>
+        <li><a href="https://matrixdev.xyz/about#products">Products</a></li>
+        <li><a href="https://matrixdev.xyz/about#staff">Our Team</a></li>
+        <li><a href="https://matrixdev.xyz/about#faq">Faq</a></li>
+        <li><a href="https://matrixdev.xyz/discord">Discord</a></li>
         <li><a href="https://status.matrixdev.xyz">Status Site</a></li>
         <li><a href="https://docs.matrixdev.xyz">Documentation Site</a></li>
       </ul>
