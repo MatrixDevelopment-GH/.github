@@ -31,7 +31,7 @@
         <li><a href="https://matrixdev.xyz/discord">Our Discord Server</a></li>
           <h4>Products</h4>
           <li><a href="https://matrixdev.xyz/invite/lynx">Lynx</a></li>
-          <li><a htef="https://matrixdev.xyz/invite/Adix">Adix</a></li>
+          <li><a htef="https://matrixdev.xyz/invite/adix">Adix</a></li>
       </ul>
     </div>
   </body>
