@@ -16,16 +16,22 @@
     <div>
      <h2>🔗 Links</h2>
       <ul>
-        <li><a href="https://matrixdev.xyz/">Website</a></li>
-        <li><a href="https://matrixdev.xyz/legal/terms">Terms</a></li>
+        <h4>Websites</h4>
+        <li><a href="https://matrixdev.xyz/">Main website</a></li>
+        <li><a href="https://status.matrixdev.xyz/">Status Site</a></li>
+        <li><a href="https://docs.matrixdev.xyz/">Documentation Site</a></li>
+          <h4>Legal Documents</h4>
+        <li><a href="https://matrixdev.xyz/legal/terms">Terms of Use</a></li>
         <li><a href="https://matrixdev.xyz/legal/prviacy">Privacy Policy</a></li>
         <li><a href="https://matrixdev.xyz/legal/disclaimer">Disclaimer</a></li>
         <li><a href="https://matrixdev.xyz/about#products">Products</a></li>
+          <h4>Highlights</h4>
         <li><a href="https://matrixdev.xyz/about#staff">Our Team</a></li>
         <li><a href="https://matrixdev.xyz/about#faq">Faq</a></li>
-        <li><a href="https://matrixdev.xyz/discord">Discord</a></li>
-        <li><a href="https://status.matrixdev.xyz">Status Site</a></li>
-        <li><a href="https://docs.matrixdev.xyz">Documentation Site</a></li>
+        <li><a href="https://matrixdev.xyz/discord">Our Discord Server</a></li>
+          <h4>Products</h4>
+          <li><a href="https://matrixdev.xyz/invite/lynx">Lynx</a></li>
+          <li><a htef="https://matrixdev.xyz/invite/Adix">Adix</a></li>
       </ul>
     </div>
   </body>
